@@ -1,0 +1,11 @@
+- insert:
+    - id: query-bridge
+      name: 'dsh-query-bridge'
+      config:
+        githubRepo: YYY-DXS/DIY-code
+        commits: 6
+        runs: 3
+        searchLimit: 8
+        apiKeyFile: ''
+        historyDir: codex-history/threads
+        archiveDir: codex
